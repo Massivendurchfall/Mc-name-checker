@@ -1,1 +1,1 @@
-# Mc-name-checker
+checkt mc namen auf verfügbarkeit
